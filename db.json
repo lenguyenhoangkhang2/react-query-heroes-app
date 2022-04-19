@@ -1,0 +1,92 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "Barry",
+      "alterEgo": "Allen",
+      "id": 4
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Joey Tribbiani"
+    },
+    {
+      "id": 3,
+      "name": "Rachel Green"
+    }
+  ],
+  "users": [
+    {
+      "id": "lenguyenhoangkhang2@gmail.com",
+      "channelId": "hoangkhang887"
+    }
+  ],
+  "channels": [
+    {
+      "id": "hoangkhang887",
+      "courses": ["react", "vue", "angular"]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "pink"
+    },
+    {
+      "id": 7,
+      "label": "purple"
+    },
+    {
+      "id": 8,
+      "label": "orange"
+    },
+    {
+      "id": 9,
+      "label": "brown"
+    },
+    {
+      "id": 10,
+      "label": "silver"
+    }
+  ]
+}
